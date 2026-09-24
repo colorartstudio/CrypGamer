@@ -1,0 +1,6 @@
+{
+  "name": "CrypGamer — Hub Gamer PvP",
+  "description": "Hub gamer PvP moderno com jogos tradicionais e proprietários, modo contra CPU, apostas em RC, book de desafios, jackpot e rede de indicação em 5 níveis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
